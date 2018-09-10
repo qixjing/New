@@ -1,5 +1,5 @@
 重新创建
-1.git
 2.newgit
 1.git2222
-2.new
+public class New{
+}

@@ -4,6 +4,6 @@
 public class New{
   public static void main(String[] args){
       System.out.println(" git config user.name---- qixjing");
-	  System.out.println("");
+	  System.out.println("it config user.email---- qixjing");
   }
 }

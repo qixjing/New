@@ -2,4 +2,7 @@
 2.newgit
 1.git2222
 public class New{
+  public void main(String[] args){
+      system.out.println("没有static，首字母小写");
+  }
 }
